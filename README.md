@@ -8,5 +8,5 @@ Matplotlib
 Seaborn
 Pandas
 
-![img](https://imgur.com/a/Pt3Gtzd)
+![Alt Text](https://imgur.com/a/Pt3Gtzd)
 
