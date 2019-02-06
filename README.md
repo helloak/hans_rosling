@@ -8,5 +8,5 @@ Matplotlib
 Seaborn
 Pandas
 
-![Alt Text](https://imgur.com/a/Pt3Gtzd)
+![Alt Text](https://python-graph-gallery.com/wp-content/uploads/animated_gapminder.gif)
 
